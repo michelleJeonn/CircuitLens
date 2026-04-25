@@ -1,0 +1,12 @@
+[
+  {"id": "fact_1",       "prompt": "The capital of France is",                                                                   "category": "factual_recall"},
+  {"id": "math_1",       "prompt": "2 + 2 =",                                                                                    "category": "arithmetic"},
+  {"id": "acronym_1",    "prompt": "The International Space Station (I",                                                          "category": "acronyms"},
+  {"id": "reasoning_1",  "prompt": "If it's raining, the ground is wet. It's raining. Therefore, the ground is",                 "category": "logical_reasoning"},
+  {"id": "completion_1", "prompt": "To be or not to be, that is the",                                                            "category": "completion"},
+  {"id": "fact_2",       "prompt": "Michael Jordan plays the sport of",                                                           "category": "factual_recall"},
+  {"id": "math_2",       "prompt": "36 + 59 =",                                                                                  "category": "arithmetic"},
+  {"id": "acronym_2",    "prompt": "The National Aeronautics and Space Administration (N",                                        "category": "acronyms"},
+  {"id": "reasoning_2",  "prompt": "All birds have wings. A penguin is a bird. Therefore, a penguin has",                        "category": "logical_reasoning"},
+  {"id": "multi_step_1", "prompt": "The capital of the state containing Dallas is",                                              "category": "multi_step_reasoning"}
+]
