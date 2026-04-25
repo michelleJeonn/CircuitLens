@@ -58,3 +58,6 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Claude Code
+.claude/settings.local.json
